@@ -1,0 +1,2 @@
+edu/cmu/pocketsphinx/models/BuildConfig.java
+ edu.cmu.pocketsphinx.models.BuildConfig
